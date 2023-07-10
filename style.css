@@ -68,10 +68,49 @@ body {
 .pink-flower-tree {
     display: flex;
     justify-content: center;
+    ss gap: 30px;
 
 }
 
 .pink-flower-tree1 {
 
     display: block;
+    text-align: center;
+    background-color: #c7ba3d;
+    margin: 10px;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    height: 320px;
+}
+
+.pink-flower-tree2 {
+    display: block;
+    text-align: center;
+    background-color: #c7a7ae;
+    margin: 10px;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    width: 320px;
+    height: 320px;
+}
+
+.pink-flower-tree3 {
+
+    display: block;
+    text-align: center;
+    background-color: #2bcb8b;
+    margin: 10px;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    height: 320px;
+}
+
+.featured-image {
+    height: 300px;
+    border: 20px;
+    padding: 20px;
+}
+
+.imagename {
+    background-color: #FFF;
 }
