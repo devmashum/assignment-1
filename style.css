@@ -63,6 +63,13 @@ body {
 .our-featured-top {
     text-align: center;
     margin: 100px;
+
+}
+
+.our-featured-header {
+    font-size: 40px;
+    font-weight: 700px;
+    margin-bottom: 20px;
 }
 
 .pink-flower-tree {
