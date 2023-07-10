@@ -1,5 +1,7 @@
 /* Body Section DESIGN*/
 body {
+    margin: 0px;
+    color: #372d2d;
 
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
@@ -39,9 +41,6 @@ body {
     border: 5px solid white;
     border-radius: 10px;
     padding: 5px;
-
-
-
 }
 
 .header-left {
@@ -70,12 +69,15 @@ body {
     font-size: 40px;
     font-weight: 700px;
     margin-bottom: 20px;
+    color: #372d2d;
+
 }
 
 .pink-flower-tree {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 70px;
 
 }
 
@@ -120,4 +122,37 @@ body {
 
 .imagename {
     background-color: #FFF;
+}
+
+/*Footer-section-Design*/
+
+.footer {
+    background-color: #160f0f;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 20px;
+
+    color: #FFF;
+}
+
+.footer-head {
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+span {
+    color: #861328;
+}
+
+.footer-p {
+    margin-top: -30px;
+    font-weight: 400;
+
+}
+
+
+
+.footer-copyright {
+    font-size: 15;
+    color: #777676;
 }
