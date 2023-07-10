@@ -68,7 +68,7 @@ body {
 .pink-flower-tree {
     display: flex;
     justify-content: center;
-    ss gap: 30px;
+    align-items: center;
 
 }
 
