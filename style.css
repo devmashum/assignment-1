@@ -41,6 +41,7 @@ body {
     padding: 5px;
 
 
+
 }
 
 .header-left {
@@ -55,4 +56,22 @@ body {
 
 
 
+}
+
+/*Our-featured-Design*/
+
+.our-featured-top {
+    text-align: center;
+    margin: 100px;
+}
+
+.pink-flower-tree {
+    display: flex;
+    justify-content: center;
+
+}
+
+.pink-flower-tree1 {
+
+    display: block;
 }
