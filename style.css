@@ -237,3 +237,37 @@ span {
 
 
 }
+
+/*Newsletter Design*/
+.subscribsion-secton {
+    background-color: aliceblue;
+    margin-bottom: 30px;
+}
+
+
+.newsletter-text {
+    text-align: center;
+
+}
+
+.newsletter-button {
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+.subscribe-input-button {
+    padding: 15px;
+    border-radius: 15px;
+    color: white;
+    background-color: #792232;
+}
+
+.subscribe-submit-button {
+    padding: 15px;
+    border-radius: 15px;
+    color: white;
+    background-color: #792232;
+}
