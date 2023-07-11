@@ -241,7 +241,8 @@ span {
 /*Newsletter Design*/
 .subscribsion-secton {
     background-color: aliceblue;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
+    margin-top: 50px;
 
 }
 
@@ -259,6 +260,7 @@ span {
 
 
 
+
 }
 
 .subscribe-input-button {
@@ -268,14 +270,18 @@ span {
     background-color: #ffffff;
     border-color: ;
     border: none;
+    width: 600px;
+    height: 20px;
 
 }
 
 .subscribe-submit-button {
-    padding: 15px;
+    padding: 19px;
     border-radius: 12px;
     color: white;
     border: none;
     background-color: #922d43;
+    width: 100px;
+    height: auto;
 
 }
