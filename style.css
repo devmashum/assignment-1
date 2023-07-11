@@ -15,7 +15,7 @@ h3 {
 }
 
 p {
-    font-size: 15px;
+    font-size: 18px;
 
 }
 
@@ -117,10 +117,10 @@ p {
     padding-top: 80px;
     padding-bottom: 80px;
     margin-bottom: 80px;
-
-
     margin-left: 115px;
     margin-right: 115px;
+    border: 20px;
+    border-radius: 10px;
 }
 
 /* Sale-Section-Design*/
@@ -177,6 +177,7 @@ p {
     margin-left: 120px;
     margin-right: 120px;
     margin-bottom: 130px;
+
 
 }
 
