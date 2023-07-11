@@ -60,88 +60,18 @@ body {
 
 /*Our-featured-Design*/
 
-.our-featured-top {
+.featured-flower-text {
     text-align: center;
-    margin: 100px;
-
+    margin-top: 60px;
 }
 
-.our-featured-header {
-    font-size: 40px;
-    font-weight: 700px;
-    margin-bottom: 20px;
-    color: #372d2d;
+.Featured-flowers {
 
-}
-
-.pink-flower-tree {
     display: flex;
-    justify-content: center;
-    align-items: flex-end;
-    margin-bottom: 20px 200px 0px 200px;
-    text-align: center;
-    width: 1920px;
-
-
-
-
-}
-
-.pink-flower-tree1 {
-
-    display: block;
-    text-align: center;
-    border-top-left-radius: 300px;
-    border-top-right-radius: 300px;
-    height: 320px;
-}
-
-.pink-flower-img1 {
-    background-color: #c7a7ae;
+    justify-content: space-evenly;
     align-items: stretch;
-    padding-bottom: 0px;
-
-}
-
-.pink-flower-tree2 {
-    display: block;
-    text-align: center;
-    border-top-left-radius: 300px;
-    border-top-right-radius: 300px;
-    width: 320px;
-    height: 320px;
-}
-
-.pink-flower-img2 {
-    background-color: #c7a7ae;
-    align-items: stretch;
-    padding-bottom: 0px;
-}
-
-
-.pink-flower-tree3 {
-
-    display: block;
-    text-align: center;
-    border-top-left-radius: 300px;
-    border-top-right-radius: 300px;
-    height: 320px;
-}
-
-.pink-flower-img3 {
-    background-color: #c7a7ae;
-    align-items: stretch;
-    padding-bottom: 0px;
-}
-
-.featured-image {
-    height: 300px;
-    border: 20px;
-    padding: 20px;
-}
-
-.image-name {
-    background-color: #FFF;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 /*Footer-section-Design*/
