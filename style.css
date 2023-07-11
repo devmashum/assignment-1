@@ -248,3 +248,49 @@ span {
     font-size: 15;
     color: #777676;
 }
+
+
+/*Demo*/
+.main-subscribe {
+    background-image: url('media/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin-left: 115px;
+    margin-right: 115px;
+    margin-top: 50px;
+}
+
+.main-header {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.main-button {
+
+    display: flex;
+    justify-content: center;
+    padding-bottom: 80px;
+    margin-bottom: 120px;
+    margin-top: 50px;
+}
+
+.main-input {
+    padding: 15px;
+    border-radius: 12px;
+    color: white;
+    background-color: #ffffff;
+    width: 600px;
+    height: 30px;
+    text-align: center;
+
+}
+
+.main-button-send {
+    padding: 19px;
+    border-radius: 12px;
+    color: white;
+    border: none;
+    background-color: #922d43;
+
+}
