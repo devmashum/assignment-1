@@ -7,6 +7,17 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+/* Joined Styles*/
+
+h3 {
+    font-size: 40px;
+    font-weight: 700px;
+}
+
+p {
+    font-size: 15px;
+
+}
 
 /* Header section DESIGN*/
 .header-section {
@@ -18,7 +29,7 @@ body {
 
 }
 
-.header-title {
+#header-title {
     color: #372d2d;
     font-size: 60px;
     font-style: normal;
