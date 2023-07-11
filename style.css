@@ -89,38 +89,6 @@ body {
     text-decoration: underline;
 }
 
-/*Footer-section-Design*/
-
-.footer {
-    background-color: #160f0f;
-    text-align: center;
-    padding-top: 60px;
-    padding-bottom: 20px;
-
-    color: #FFF;
-}
-
-.footer-head {
-    font-size: 30px;
-    margin-bottom: 0px;
-}
-
-span {
-    color: #861328;
-}
-
-.footer-p {
-    margin-top: -30px;
-    font-weight: 400;
-
-}
-
-
-
-.footer-copyright {
-    font-size: 15;
-    color: #777676;
-}
 
 /* Section 3, Icon Bar Design*/
 .delivery-icon .flower-icon .support-icon {
@@ -171,7 +139,7 @@ span {
 }
 
 /*Newsletter Design*/
-.subscribsion-secton {
+.subscrib-secton {
     background-color: aliceblue;
     margin-bottom: 50px;
     margin-top: 50px;
@@ -193,10 +161,6 @@ span {
 .newsletter-button {
     display: flex;
     justify-content: center;
-    padding-bottom: 80px;
-
-
-
 
 }
 
@@ -205,7 +169,7 @@ span {
     border-radius: 12px;
     color: white;
     background-color: #ffffff;
-    border-color: ;
+    border-color: none;
     border: none;
     width: 600px;
     height: 20px;
@@ -237,4 +201,38 @@ span {
     margin-left: 100px;
     margin-right: 100px;
 
+
+}
+
+
+
+/*Footer-section-Design*/
+
+.footer {
+    background-color: #160f0f;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 20px;
+
+    color: #FFF;
+}
+
+.footer-head {
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+span {
+    color: #861328;
+}
+
+.footer-p {
+    margin-top: -30px;
+    font-weight: 400;
+
+}
+
+.footer-copyright {
+    font-size: 15;
+    color: #777676;
 }
