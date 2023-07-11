@@ -248,6 +248,7 @@ span {
     height: 320px;
     margin-left: 120px;
     margin-right: 120px;
+    margin-bottom: 130px;
 
 }
 
@@ -300,7 +301,7 @@ span {
     display: flex;
     justify-content: space-around;
 
-
+    border: 10px;
     margin-left: 100px;
     margin-right: 100px;
 
