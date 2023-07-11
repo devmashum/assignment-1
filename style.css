@@ -133,6 +133,15 @@ span {
     display: flex;
     justify-content: space-around;
     text-align: center;
+    background-color: #9056998f;
+    color: white;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-bottom: 80px;
+
+
+    margin-left: 115px;
+    margin-right: 115px;
 }
 
 /* Sale Section Design*/
