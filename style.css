@@ -26,7 +26,8 @@ body {
 }
 
 .header-paragraph {
-    color: #372d2d font-size: 20px;
+    color: #372d2d;
+    font-size: 20px;
     font-style: normal;
     font-weight: 500;
     line-height: 30px;
@@ -76,8 +77,13 @@ body {
 .pink-flower-tree {
     display: flex;
     justify-content: center;
-    align-items: stretch;
-    margin-bottom: 70px;
+    align-items: flex-end;
+    margin-bottom: 20px 200px 0px 200px;
+    text-align: center;
+    width: 1920px;
+
+
+
 
 }
 
@@ -85,33 +91,47 @@ body {
 
     display: block;
     text-align: center;
-    background-color: #c7ba3d;
-    margin: 10px;
     border-top-left-radius: 300px;
     border-top-right-radius: 300px;
     height: 320px;
 }
 
+.pink-flower-img1 {
+    background-color: #c7a7ae;
+    align-items: stretch;
+    padding-bottom: 0px;
+
+}
+
 .pink-flower-tree2 {
     display: block;
     text-align: center;
-    background-color: #c7a7ae;
-    margin: 10px;
     border-top-left-radius: 300px;
     border-top-right-radius: 300px;
     width: 320px;
     height: 320px;
 }
 
+.pink-flower-img2 {
+    background-color: #c7a7ae;
+    align-items: stretch;
+    padding-bottom: 0px;
+}
+
+
 .pink-flower-tree3 {
 
     display: block;
     text-align: center;
-    background-color: #2bcb8b;
-    margin: 10px;
     border-top-left-radius: 300px;
     border-top-right-radius: 300px;
     height: 320px;
+}
+
+.pink-flower-img3 {
+    background-color: #c7a7ae;
+    align-items: stretch;
+    padding-bottom: 0px;
 }
 
 .featured-image {
@@ -120,7 +140,7 @@ body {
     padding: 20px;
 }
 
-.imagename {
+.image-name {
     background-color: #FFF;
 }
 
@@ -167,6 +187,7 @@ span {
     font-weight: 600;
     display: flex;
     align-items: center;
+    margin-top: 200px;
     margin-bottom: 70px;
     width: 900px;
     height: 160px;
@@ -191,10 +212,28 @@ span {
     text-align: center;
 }
 
-.sale {
+/* Sale Section Design*/
 
+
+.sale {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #ac6272b2;
+    margin: 0px;
+    padding: 20px;
+
+}
+
+.sale-button {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 400px;
+    background-color: #792232;
+    margin-bottom: 50px;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 10px;
+
 
 }
