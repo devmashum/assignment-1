@@ -242,17 +242,20 @@ span {
 .subscribsion-secton {
     background-color: aliceblue;
     margin-bottom: 30px;
+
 }
 
 
 .newsletter-text {
     text-align: center;
+    padding-top: 80px;
 
 }
 
 .newsletter-button {
     display: flex;
     justify-content: center;
+    padding-bottom: 80px;
 
 
 
@@ -260,14 +263,19 @@ span {
 
 .subscribe-input-button {
     padding: 15px;
-    border-radius: 15px;
+    border-radius: 12px;
     color: white;
-    background-color: #792232;
+    background-color: #ffffff;
+    border-color: ;
+    border: none;
+
 }
 
 .subscribe-submit-button {
     padding: 15px;
-    border-radius: 15px;
+    border-radius: 12px;
     color: white;
-    background-color: #792232;
+    border: none;
+    background-color: #922d43;
+
 }
