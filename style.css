@@ -245,7 +245,7 @@ span {
     margin-top: 50px;
     background-image: url('media/Rectangle\ 9.png');
     width: auto;
-    height: 349px;
+    height: 320px;
     margin-left: 120px;
     margin-right: 120px;
 
@@ -255,7 +255,6 @@ span {
 .newsletter-text {
     text-align: center;
     padding-top: 80px;
-
 }
 
 .newsletter-button {
@@ -288,5 +287,21 @@ span {
     background-color: #922d43;
     width: 100px;
     height: auto;
+
+}
+
+/*Instagram-section.design*/
+.instagram-text {
+
+    text-align: center;
+}
+
+.insta-images {
+    display: flex;
+    justify-content: space-around;
+
+
+    margin-left: 100px;
+    margin-right: 100px;
 
 }
